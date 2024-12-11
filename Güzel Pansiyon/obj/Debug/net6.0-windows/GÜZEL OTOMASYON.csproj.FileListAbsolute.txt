@@ -1,0 +1,32 @@
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\GÜZEL OTOMASYON.exe
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\GÜZEL OTOMASYON.deps.json
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\GÜZEL OTOMASYON.runtimeconfig.json
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\GÜZEL OTOMASYON.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\GÜZEL OTOMASYON.pdb
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\refint\GÜZEL OTOMASYON.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.pdb
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\ref\GÜZEL OTOMASYON.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.Properties.Resources.resources
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.FrmYeniMusteri.resources
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.FrmAdminGiris.resources
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.FrmAnaForm.resources
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.FrmOdalar.resources
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL OTOMASYON.csproj.CopyComplete
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.FrmMusteriler.resources
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.FrmGelirGider.resources
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.FrmStoklar.resources
+C:\Users\Acer\source\repos\Iskenderun-Technical-University\donem-projesi-Ensguzl-1\GÜZEL OTOMASYON\GÜZEL OTOMASYON\obj\Debug\net6.0-windows\GÜZEL_OTOMASYON.FrmSifreGüncelle.resources
